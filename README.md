@@ -17,3 +17,9 @@ manipulate images
 5. train
 6. check test
 
+
+
+Display images in Python: https://www.askpython.com/python/examples/display-images-using-python
+
+
+ho deixem en classificació d'imatges pendent de verificar si funciona
