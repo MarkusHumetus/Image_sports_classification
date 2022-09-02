@@ -13,19 +13,28 @@ This project was the challenge of the hackathon Talent Squad II, which ultimatel
 ## Methodology
 
 1 -> Check initial images and to homogenize image formats.
+
 2 -> Wep scrapping of new images for each sport to increase the training set.
+
 3 -> Validate new images: content and size.
+
 4 -> Split images to 3 squared images with no aspect ratio distortion.
+
 5 -> Generation of arrays with images at the proper size and lists with labelling (testing/validation array included) 
+
 6 -> Create different Convolutional Neural Network/CNN: the simplest one, with augmented images, adding an initial pretained model. 
+
 7- > Training and validation 
 save models
+
 8 -> Prediction with the best CNN
-Final predictions
-- Image distorted
-- squared images average
-- squared img maximum
+    Final predictions
+    - Image distorted
+    - squared images average
+    - squared img maximum
+
 9 -> Save predictions 
+
 10 - > generate the requirements. txt
 
 
