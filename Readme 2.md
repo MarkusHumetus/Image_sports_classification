@@ -3,11 +3,30 @@
 
 ## Project Intro/Objective
 
-The purpose of this project is to classify images into three categories. All images are from 3 different sports the status of a rocket by studing the info collected by six sensors. The initial data set included a label of status column and six numeric columns according to the values of each sensor. Test data set only included the values of the six sensors.
-This project was the challenge of the hackathon Talent Squad, which ultimately aims to select best candidates for future job proposals on the data field.
+The purpose of this project is to classify images into three categories/sports: baseball, cricket or football. A small set of images are provided (221) and there is two main targets :
+
+1. Increased the training samples in the training set
+2. Calculate the score macro F1 of the predictions.
+
+This project was the challenge of the hackathon Talent Squad II, which ultimately aims to select best candidates for future job proposals on the data field.
 
 ## Methodology
 
+1 -> Check initial images and to homogenize image formats.
+2 -> Wep scrapping of new images for each sport to increase the training set.
+3 -> Validate new images: content and size.
+4 -> Split images to 3 squared images with no aspect ratio distortion.
+5 -> Generation of arrays with images at the proper size and lists with labelling (testing/validation array included) 
+6 -> Create different Convolutional Neural Network/CNN: the simplest one, with augmented images, adding an initial pretained model. 
+7- > Training and validation 
+save models
+8 -> Prediction with the best CNN
+Final predictions
+- Image distorted
+- squared images average
+- squared img maximum
+9 -> Save predictions 
+10 - > generate the requirements. txt
 1. Inferential Statistics.
 2. Exploratory Data Analysis.
 3. Screening classification by machine Learning.
@@ -31,11 +50,13 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 
 [Finished]
 
-Project was completed and submitted for competition in 26th of June 2022.
+Project was completed and submitted for competition in the 11th of September 2022.
 
 ## Contact
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marchumet@gmx.net
+If you are interested in my professional profile, please free to  have a look on my project's portfolio and my linkedin page
+
 
 ## Acknowledgments
 
