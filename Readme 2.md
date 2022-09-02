@@ -27,11 +27,7 @@ Final predictions
 - squared img maximum
 9 -> Save predictions 
 10 - > generate the requirements. txt
-1. Inferential Statistics.
-2. Exploratory Data Analysis.
-3. Screening classification by machine Learning.
-4. Tunning of hyperparameters to optimize the chosen model.
-5. Predict the status for the test data set (supplied without label) with the optimised model.
+
 
 ## Tools
 
@@ -39,12 +35,16 @@ Final predictions
 * Git & Github
 * Jupyter Notebook
 * Visual Studio Code
-* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Pycaret, Optuna. (Keras from Tensorflow was used for some unsuccesful trials, if you are curious you can check the [notebook with trials](https://github.com/MarkusHumetus/Hackathon_Talent_Squad/blob/main/main_NN.ipynb))
+* Chrome
+* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow, previous trained convolutional neuronal networks,
+
+FALTEN
+
 
 ## Getting Started
 
 1. Clone this [repo](https://github.com/MarkusHumetus/Hackathon_Talent_Squad.git) (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Use requirements.txt to install all required dependencies. Please note that Pycaret 2.3.0 only works properly under Python 3.6-3.8
+2. Use requirements.txt to install all required dependencies. 
 
 ## Project Status
 
@@ -56,6 +56,7 @@ Project was completed and submitted for competition in the 11th of September 202
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marchumet@gmx.net
 If you are interested in my professional profile, please free to  have a look on my project's portfolio and my linkedin page
+FALTA LINEA DE CONTACTES!!!!!!
 
 
 ## Acknowledgments
