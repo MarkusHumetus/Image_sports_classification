@@ -1,0 +1,549 @@
+,path,label,validation_code
+0,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_1.jpg,baseball,valid
+1,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_10.jpg,baseball,not valid
+2,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_11.jpg,baseball,not valid
+3,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_12.jpg,baseball,not valid
+4,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_13.jpg,baseball,not valid
+5,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_14.jpg,baseball,valid
+6,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_15.jpg,baseball,valid
+7,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_16.jpg,baseball,valid
+8,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_17.jpg,baseball,valid
+9,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_18.jpg,baseball,valid
+10,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_2.jpg,baseball,valid
+11,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_20.jpg,baseball,valid
+12,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_22.jpg,baseball,not valid
+13,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_23.jpg,baseball,valid
+14,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_26.jpg,baseball,not valid
+15,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_28.jpg,baseball,not valid
+16,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_29.jpg,baseball,not valid
+17,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_3.jpg,baseball,valid
+18,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_30.jpg,baseball,valid
+19,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_32.jpg,baseball,not valid
+20,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_33.jpg,baseball,not valid
+21,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_34.jpg,baseball,valid
+22,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_36.jpg,baseball,valid
+23,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_37.jpg,baseball,not valid
+24,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_38.jpg,baseball,valid
+25,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_39.jpg,baseball,not valid
+26,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_4.jpg,baseball,valid
+27,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_40.jpg,baseball,valid
+28,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_42.jpg,baseball,valid
+29,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_43.jpg,baseball,valid
+30,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_44.jpg,baseball,not valid
+31,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_45.jpg,baseball,not valid
+32,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_46.jpg,baseball,valid
+33,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_47.jpg,baseball,not valid
+34,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_48.jpg,baseball,not valid
+35,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_49.jpg,baseball,not valid
+36,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_50.jpg,baseball,not valid
+37,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_6.jpg,baseball,not valid
+38,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_7.jpg,baseball,unknown
+39,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_8.jpg,baseball,not valid
+40,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball ball\Image_9.jpg,baseball,valid
+41,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_1.jpg,baseball,valid
+42,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_10.jpg,baseball,not valid
+43,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_12.jpg,baseball,valid
+44,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_13.jpg,baseball,unknown
+45,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_15.jpg,baseball,not valid
+46,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_16.jpg,baseball,not valid
+47,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_17.jpg,baseball,not valid
+48,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_19.jpg,baseball,valid
+49,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_2.jpg,baseball,valid
+50,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_20.jpg,baseball,unknown
+51,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_21.jpg,baseball,valid
+52,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_22.jpg,baseball,valid
+53,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_24.jpg,baseball,valid
+54,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_25.jpg,baseball,unknown
+55,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_27.jpg,baseball,valid
+56,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_28.jpg,baseball,not valid
+57,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_29.jpg,baseball,valid
+58,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_3.jpg,baseball,unknown
+59,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_30.jpg,baseball,not valid
+60,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_32.jpg,baseball,not valid
+61,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_33.jpg,baseball,unknown
+62,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_34.jpg,baseball,not valid
+63,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_35.jpg,baseball,valid
+64,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_36.jpg,baseball,valid
+65,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_37.jpg,baseball,valid
+66,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_38.jpg,baseball,valid
+67,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_39.jpg,baseball,valid
+68,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_4.jpg,baseball,valid
+69,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_40.jpg,baseball,valid
+70,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_41.jpg,baseball,valid
+71,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_42.jpg,baseball,valid
+72,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_43.jpg,baseball,valid
+73,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_44.jpg,baseball,valid
+74,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_46.jpg,baseball,valid
+75,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_47.jpg,baseball,valid
+76,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_48.jpg,baseball,valid
+77,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_49.jpg,baseball,not valid
+78,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_5.jpg,baseball,valid
+79,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_50.jpg,baseball,valid
+80,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_6.jpg,baseball,not valid
+81,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_7.jpg,baseball,valid
+82,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball field\Image_9.jpg,baseball,valid
+83,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_1.jpg,baseball,valid
+84,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_10.jpg,baseball,not valid
+85,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_11.jpg,baseball,valid
+86,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_12.jpg,baseball,not valid
+87,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_13.jpg,baseball,not valid
+88,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_14.jpg,baseball,not valid
+89,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_16.jpg,baseball,valid
+90,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_17.jpg,baseball,valid
+91,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_19.jpg,baseball,valid
+92,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_2.jpg,baseball,valid
+93,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_20.jpg,baseball,not valid
+94,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_22.jpg,baseball,not valid
+95,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_23.jpg,baseball,not valid
+96,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_25.jpg,baseball,not valid
+97,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_26.jpg,baseball,not valid
+98,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_27.jpg,baseball,valid
+99,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_28.jpg,baseball,not valid
+100,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_29.jpg,baseball,not valid
+101,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_3.jpg,baseball,valid
+102,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_30.jpg,baseball,valid
+103,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_31.jpg,baseball,valid
+104,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_32.jpg,baseball,valid
+105,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_33.jpg,baseball,valid
+106,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_34.jpg,baseball,valid
+107,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_35.jpg,baseball,unknown
+108,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_36.jpg,baseball,valid
+109,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_37.jpg,baseball,valid
+110,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_39.jpg,baseball,valid
+111,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_4.jpg,baseball,valid
+112,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_42.jpg,baseball,not valid
+113,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_43.jpg,baseball,not valid
+114,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_46.jpg,baseball,valid
+115,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_48.jpg,baseball,valid
+116,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_49.jpg,baseball,valid
+117,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_5.jpg,baseball,valid
+118,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_50.jpg,baseball,not valid
+119,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_6.jpg,baseball,valid
+120,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_7.jpg,baseball,not valid
+121,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_8.jpg,baseball,not valid
+122,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball match\Image_9.jpg,baseball,not valid
+123,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_1.jpg,baseball,not valid
+124,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_10.jpg,baseball,not valid
+125,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_11.jpg,baseball,valid
+126,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_13.jpg,baseball,not valid
+127,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_15.jpg,baseball,not valid
+128,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_18.jpg,baseball,unknown
+129,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_19.jpg,baseball,valid
+130,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_2.jpg,baseball,not valid
+131,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_20.jpg,baseball,valid
+132,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_21.jpg,baseball,valid
+133,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_22.jpg,baseball,not valid
+134,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_23.jpg,baseball,valid
+135,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_24.jpg,baseball,valid
+136,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_25.jpg,baseball,valid
+137,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_27.jpg,baseball,valid
+138,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_28.jpg,baseball,valid
+139,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_3.jpg,baseball,unknown
+140,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_30.jpg,baseball,valid
+141,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_31.jpg,baseball,valid
+142,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_32.jpg,baseball,not valid
+143,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_33.jpg,baseball,valid
+144,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_34.jpg,baseball,valid
+145,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_35.jpg,baseball,unknown
+146,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_37.jpg,baseball,valid
+147,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_38.jpg,baseball,valid
+148,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_39.jpg,baseball,valid
+149,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_4.jpg,baseball,not valid
+150,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_40.jpg,baseball,valid
+151,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_41.jpg,baseball,valid
+152,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_42.jpg,baseball,valid
+153,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_44.jpg,baseball,valid
+154,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_45.jpg,baseball,not valid
+155,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_46.jpg,baseball,unknown
+156,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_48.jpg,baseball,valid
+157,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_49.jpg,baseball,valid
+158,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_5.jpg,baseball,valid
+159,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_50.jpg,baseball,not valid
+160,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_6.jpg,baseball,not valid
+161,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_7.jpg,baseball,not valid
+162,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_8.jpg,baseball,not valid
+163,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball player\Image_9.jpg,baseball,not valid
+164,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_1.jpg,baseball,valid
+165,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_10.jpg,baseball,not valid
+166,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_12.jpg,baseball,not valid
+167,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_14.jpg,baseball,not valid
+168,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_17.jpg,baseball,not valid
+169,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_18.jpg,baseball,valid
+170,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_2.jpg,baseball,valid
+171,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_20.jpg,baseball,valid
+172,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_21.jpg,baseball,valid
+173,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_22.jpg,baseball,valid
+174,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_23.jpg,baseball,valid
+175,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_24.jpg,baseball,not valid
+176,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_25.jpg,baseball,not valid
+177,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_26.jpg,baseball,not valid
+178,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_27.jpg,baseball,not valid
+179,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_28.jpg,baseball,not valid
+180,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_29.jpg,baseball,not valid
+181,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_3.jpg,baseball,unknown
+182,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_30.jpg,baseball,not valid
+183,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_31.jpg,baseball,not valid
+184,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_32.jpg,baseball,valid
+185,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_33.jpg,baseball,valid
+186,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_34.jpg,baseball,valid
+187,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_35.jpg,baseball,valid
+188,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_36.jpg,baseball,valid
+189,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_37.jpg,baseball,valid
+190,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_39.jpg,baseball,valid
+191,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_4.jpg,baseball,unknown
+192,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_40.jpg,baseball,valid
+193,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_41.jpg,baseball,not valid
+194,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_42.jpg,baseball,not valid
+195,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_43.jpg,baseball,not valid
+196,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_44.jpg,baseball,not valid
+197,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_45.jpg,baseball,not valid
+198,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_48.jpg,baseball,valid
+199,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_49.jpg,baseball,not valid
+200,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_5.jpg,baseball,valid
+201,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_50.jpg,baseball,not valid
+202,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_6.jpg,baseball,valid
+203,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_7.jpg,baseball,valid
+204,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\baseball stick glove\Image_9.jpg,baseball,not valid
+205,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_1.jpg,cricket,valid
+206,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_10.jpg,cricket,valid
+207,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_11.jpg,cricket,valid
+208,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_12.jpg,cricket,valid
+209,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_13.jpg,cricket,not valid
+210,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_14.jpg,cricket,not valid
+211,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_15.jpg,cricket,valid
+212,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_16.jpg,cricket,not valid
+213,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_17.jpg,cricket,not valid
+214,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_19.jpg,cricket,valid
+215,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_2.jpg,cricket,valid
+216,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_20.jpg,cricket,valid
+217,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_21.jpg,cricket,valid
+218,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_22.jpg,cricket,valid
+219,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_23.jpg,cricket,valid
+220,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_24.jpg,cricket,valid
+221,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_25.jpg,cricket,not valid
+222,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_26.jpg,cricket,not valid
+223,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_27.jpg,cricket,valid
+224,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_28.jpg,cricket,valid
+225,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_29.jpg,cricket,valid
+226,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_32.jpg,cricket,valid
+227,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_33.jpg,cricket,unknown
+228,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_34.jpg,cricket,valid
+229,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_35.jpg,cricket,not valid
+230,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_36.jpg,cricket,valid
+231,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_37.jpg,cricket,not valid
+232,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_38.jpg,cricket,valid
+233,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_4.jpg,cricket,valid
+234,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_40.jpg,cricket,not valid
+235,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_42.jpg,cricket,not valid
+236,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_43.jpg,cricket,not valid
+237,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_44.jpg,cricket,not valid
+238,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_45.jpg,cricket,not valid
+239,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_47.jpg,cricket,valid
+240,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_48.jpg,cricket,not valid
+241,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_49.jpg,cricket,valid
+242,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_5.jpg,cricket,not valid
+243,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_50.jpg,cricket,valid
+244,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_6.jpg,cricket,valid
+245,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_7.jpg,cricket,valid
+246,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_8.jpg,cricket,valid
+247,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket ball\Image_9.jpg,cricket,not valid
+248,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_1.jpg,cricket,not valid
+249,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_10.jpg,cricket,not valid
+250,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_11.jpg,cricket,not valid
+251,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_12.jpg,cricket,not valid
+252,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_13.jpg,cricket,not valid
+253,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_14.jpg,cricket,unknown
+254,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_15.jpg,cricket,valid
+255,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_16.jpg,cricket,valid
+256,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_18.jpg,cricket,valid
+257,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_19.jpg,cricket,valid
+258,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_2.jpg,cricket,valid
+259,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_20.jpg,cricket,valid
+260,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_21.jpg,cricket,not valid
+261,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_22.jpg,cricket,not valid
+262,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_24.jpg,cricket,not valid
+263,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_25.jpg,cricket,not valid
+264,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_26.jpg,cricket,unknown
+265,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_27.jpg,cricket,not valid
+266,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_29.jpg,cricket,valid
+267,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_30.jpg,cricket,not valid
+268,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_31.jpg,cricket,valid
+269,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_32.jpg,cricket,not valid
+270,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_33.jpg,cricket,not valid
+271,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_34.jpg,cricket,not valid
+272,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_35.jpg,cricket,unknown
+273,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_36.jpg,cricket,not valid
+274,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_37.jpg,cricket,not valid
+275,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_38.jpg,cricket,not valid
+276,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_39.jpg,cricket,not valid
+277,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_4.jpg,cricket,not valid
+278,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_40.jpg,cricket,unknown
+279,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_41.jpg,cricket,not valid
+280,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_42.jpg,cricket,not valid
+281,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_43.jpg,cricket,not valid
+282,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_44.jpg,cricket,not valid
+283,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_45.jpg,cricket,valid
+284,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_46.jpg,cricket,not valid
+285,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_47.jpg,cricket,valid
+286,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_48.jpg,cricket,not valid
+287,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_49.jpg,cricket,not valid
+288,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_5.jpg,cricket,not valid
+289,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_50.jpg,cricket,valid
+290,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_6.jpg,cricket,valid
+291,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_7.jpg,cricket,not valid
+292,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket field\Image_8.jpg,cricket,valid
+293,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_1.jpg,cricket,valid
+294,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_10.jpg,cricket,valid
+295,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_11.jpg,cricket,valid
+296,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_12.jpg,cricket,not valid
+297,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_13.jpg,cricket,valid
+298,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_14.jpg,cricket,not valid
+299,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_15.jpg,cricket,not valid
+300,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_16.jpg,cricket,valid
+301,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_18.jpg,cricket,not valid
+302,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_19.jpg,cricket,valid
+303,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_2.jpg,cricket,valid
+304,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_20.jpg,cricket,not valid
+305,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_21.jpg,cricket,valid
+306,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_22.jpg,cricket,not valid
+307,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_23.jpg,cricket,not valid
+308,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_24.jpg,cricket,valid
+309,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_25.jpg,cricket,valid
+310,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_26.jpg,cricket,valid
+311,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_28.jpg,cricket,valid
+312,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_29.jpg,cricket,valid
+313,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_3.jpg,cricket,not valid
+314,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_30.jpg,cricket,not valid
+315,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_31.jpg,cricket,valid
+316,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_33.jpg,cricket,valid
+317,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_34.jpg,cricket,valid
+318,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_35.jpg,cricket,valid
+319,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_36.jpg,cricket,valid
+320,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_37.jpg,cricket,not valid
+321,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_38.jpg,cricket,not valid
+322,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_39.jpg,cricket,not valid
+323,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_4.jpg,cricket,valid
+324,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_40.jpg,cricket,not valid
+325,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_42.jpg,cricket,valid
+326,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_43.jpg,cricket,valid
+327,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_44.jpg,cricket,not valid
+328,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_45.jpg,cricket,valid
+329,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_46.jpg,cricket,valid
+330,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_47.jpg,cricket,valid
+331,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_48.jpg,cricket,valid
+332,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_49.jpg,cricket,valid
+333,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_5.jpg,cricket,valid
+334,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_50.jpg,cricket,not valid
+335,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_6.jpg,cricket,valid
+336,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_7.jpg,cricket,valid
+337,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_8.jpg,cricket,valid
+338,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket match\Image_9.jpg,cricket,not valid
+339,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_1.jpg,cricket,valid
+340,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_10.jpg,cricket,valid
+341,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_11.jpg,cricket,not valid
+342,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_12.jpg,cricket,not valid
+343,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_13.jpg,cricket,not valid
+344,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_14.jpg,cricket,not valid
+345,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_15.jpg,cricket,not valid
+346,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_16.jpg,cricket,valid
+347,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_17.jpg,cricket,not valid
+348,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_18.jpg,cricket,valid
+349,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_19.jpg,cricket,valid
+350,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_2.jpg,cricket,valid
+351,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_20.jpg,cricket,valid
+352,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_21.jpg,cricket,not valid
+353,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_22.jpg,cricket,valid
+354,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_23.jpg,cricket,valid
+355,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_24.jpg,cricket,valid
+356,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_26.jpg,cricket,valid
+357,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_27.jpg,cricket,not valid
+358,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_28.jpg,cricket,not valid
+359,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_29.jpg,cricket,not valid
+360,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_3.jpg,cricket,not valid
+361,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_30.jpg,cricket,not valid
+362,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_31.jpg,cricket,valid
+363,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_32.jpg,cricket,not valid
+364,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_33.jpg,cricket,not valid
+365,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_34.jpg,cricket,not valid
+366,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_35.jpg,cricket,valid
+367,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_36.jpg,cricket,valid
+368,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_37.jpg,cricket,valid
+369,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_38.jpg,cricket,not valid
+370,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_4.jpg,cricket,not valid
+371,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_40.jpg,cricket,not valid
+372,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_41.jpg,cricket,not valid
+373,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_42.jpg,cricket,valid
+374,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_43.jpg,cricket,valid
+375,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_44.jpg,cricket,valid
+376,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_45.jpg,cricket,valid
+377,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_46.jpg,cricket,valid
+378,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_47.jpg,cricket,valid
+379,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_48.jpg,cricket,valid
+380,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_49.jpg,cricket,valid
+381,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_5.jpg,cricket,not valid
+382,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_50.jpg,cricket,unknown
+383,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_6.jpg,cricket,not valid
+384,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_7.jpg,cricket,not valid
+385,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_8.jpg,cricket,valid
+386,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket player\Image_9.jpg,cricket,not valid
+387,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_1.jpg,cricket,not valid
+388,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_10.jpg,cricket,valid
+389,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_11.jpg,cricket,valid
+390,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_12.jpg,cricket,valid
+391,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_14.jpg,cricket,valid
+392,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_15.jpg,cricket,valid
+393,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_16.jpg,cricket,valid
+394,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_17.jpg,cricket,not valid
+395,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_19.jpg,cricket,valid
+396,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_2.jpg,cricket,valid
+397,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_20.jpg,cricket,valid
+398,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_21.jpg,cricket,valid
+399,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_22.jpg,cricket,valid
+400,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_23.jpg,cricket,valid
+401,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_24.jpg,cricket,valid
+402,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_25.jpg,cricket,valid
+403,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_26.jpg,cricket,valid
+404,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_28.jpg,cricket,valid
+405,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_29.jpg,cricket,not valid
+406,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_3.jpg,cricket,valid
+407,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_30.jpg,cricket,valid
+408,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_31.jpg,cricket,valid
+409,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_33.jpg,cricket,not valid
+410,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_34.jpg,cricket,valid
+411,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_35.jpg,cricket,valid
+412,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_36.jpg,cricket,valid
+413,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_37.jpg,cricket,not valid
+414,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_38.jpg,cricket,not valid
+415,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_4.jpg,cricket,not valid
+416,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_41.jpg,cricket,not valid
+417,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_42.jpg,cricket,not valid
+418,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_44.jpg,cricket,valid
+419,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_46.jpg,cricket,valid
+420,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_47.jpg,cricket,valid
+421,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_48.jpg,cricket,valid
+422,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_49.jpg,cricket,valid
+423,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_5.jpg,cricket,not valid
+424,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_50.jpg,cricket,valid
+425,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_6.jpg,cricket,valid
+426,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_7.jpg,cricket,not valid
+427,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_8.jpg,cricket,not valid
+428,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\cricket stumps glove\Image_9.jpg,cricket,valid
+429,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_1.jpg,football,not valid
+430,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_10.jpg,football,not valid
+431,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_11.jpg,football,not valid
+432,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_12.jpg,football,valid
+433,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_13.jpg,football,not valid
+434,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_14.jpg,football,not valid
+435,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_15.jpg,football,not valid
+436,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_16.jpg,football,not valid
+437,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_17.jpg,football,not valid
+438,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_18.jpg,football,not valid
+439,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_19.jpg,football,not valid
+440,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_2.jpg,football,not valid
+441,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_20.jpg,football,not valid
+442,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_21.jpg,football,not valid
+443,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_22.jpg,football,not valid
+444,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_23.jpg,football,not valid
+445,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_25.jpg,football,not valid
+446,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_26.jpg,football,not valid
+447,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_27.jpg,football,not valid
+448,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_3.jpg,football,not valid
+449,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_4.jpg,football,valid
+450,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_5.jpg,football,valid
+451,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_6.jpg,football,not valid
+452,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_7.jpg,football,not valid
+453,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_8.jpg,football,not valid
+454,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football field\Image_9.jpg,football,not valid
+455,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_1.jpg,football,not valid
+456,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_10.jpg,football,not valid
+457,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_13.jpg,football,valid
+458,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_14.jpg,football,not valid
+459,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_15.jpg,football,not valid
+460,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_16.jpg,football,valid
+461,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_17.jpg,football,not valid
+462,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_18.jpg,football,valid
+463,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_19.jpg,football,not valid
+464,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_2.jpg,football,valid
+465,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_20.jpg,football,not valid
+466,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_21.jpg,football,not valid
+467,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_22.jpg,football,not valid
+468,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_23.jpg,football,valid
+469,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_24.jpg,football,valid
+470,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_25.jpg,football,not valid
+471,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_26.jpg,football,not valid
+472,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_27.jpg,football,not valid
+473,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_28.jpg,football,not valid
+474,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_29.jpg,football,not valid
+475,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_3.jpg,football,valid
+476,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_30.jpg,football,not valid
+477,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_31.jpg,football,not valid
+478,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_32.jpg,football,valid
+479,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_33.jpg,football,valid
+480,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_34.jpg,football,valid
+481,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_35.jpg,football,not valid
+482,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_37.jpg,football,valid
+483,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_38.jpg,football,not valid
+484,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_39.jpg,football,not valid
+485,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_4.jpg,football,not valid
+486,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_40.jpg,football,valid
+487,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_41.jpg,football,valid
+488,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_42.jpg,football,valid
+489,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_43.jpg,football,not valid
+490,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_44.jpg,football,valid
+491,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_45.jpg,football,valid
+492,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_46.jpg,football,valid
+493,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_47.jpg,football,not valid
+494,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_48.jpg,football,not valid
+495,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_49.jpg,football,not valid
+496,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_5.jpg,football,valid
+497,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_50.jpg,football,not valid
+498,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_6.jpg,football,valid
+499,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_7.jpg,football,valid
+500,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football goal\Image_8.jpg,football,not valid
+501,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_1.jpg,football,not valid
+502,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_11.jpg,football,not valid
+503,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_12.jpg,football,not valid
+504,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_14.jpg,football,valid
+505,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_15.jpg,football,not valid
+506,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_17.jpg,football,not valid
+507,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_18.jpg,football,valid
+508,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_19.jpg,football,not valid
+509,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_2.jpg,football,valid
+510,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_20.jpg,football,not valid
+511,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_21.jpg,football,not valid
+512,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_22.jpg,football,not valid
+513,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_23.jpg,football,not valid
+514,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_24.jpg,football,not valid
+515,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_25.jpg,football,not valid
+516,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_26.jpg,football,not valid
+517,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_27.jpg,football,not valid
+518,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_28.jpg,football,not valid
+519,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_29.jpg,football,not valid
+520,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_3.jpg,football,not valid
+521,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_30.jpg,football,not valid
+522,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_31.jpg,football,not valid
+523,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_32.jpg,football,valid
+524,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_33.jpg,football,valid
+525,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_34.jpg,football,not valid
+526,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_35.jpg,football,not valid
+527,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_36.jpg,football,not valid
+528,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_37.jpg,football,not valid
+529,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_38.jpg,football,valid
+530,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_39.jpg,football,not valid
+531,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_4.jpg,football,valid
+532,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_40.jpg,football,not valid
+533,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_41.jpg,football,not valid
+534,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_42.jpg,football,not valid
+535,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_43.jpg,football,not valid
+536,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_44.jpg,football,valid
+537,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_45.jpg,football,valid
+538,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_46.jpg,football,not valid
+539,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_47.jpg,football,not valid
+540,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_48.jpg,football,not valid
+541,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_49.jpg,football,not valid
+542,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_5.jpg,football,not valid
+543,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_50.jpg,football,not valid
+544,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_6.jpg,football,not valid
+545,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_7.jpg,football,not valid
+546,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_8.jpg,football,valid
+547,c:\Users\march\000 Treball Ju`yter 000\Hackathons\imag_recognition\output\new_images\football player\Image_9.jpg,football,not valid
