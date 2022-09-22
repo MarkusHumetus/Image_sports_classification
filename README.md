@@ -1,15 +1,3 @@
-# Image_sports_classification
-
-
-opencv 4.6.0 version
-python 3.9.13
-
-
-
-to convert file to jpg: https://image.online-convert.com/convert-to-jpg
-
-
-
 1. scrap images
 2. convert images
 3. validate and manually classify images for training
@@ -17,13 +5,6 @@ manipulate images
 4. make neuronal net
 5. train
 6. check test
-
-
-
-Display images in Python: https://www.askpython.com/python/examples/display-images-using-python
-
-
-ho deixem en classificació d'imatges pendent de verificar si funciona
 
 
 # [Hackathon of Talent Squad II (Barcelona-September 2022)](https://nuwe.io/dev/challenges/talent-squad-data-science-ii)
@@ -36,14 +17,14 @@ The purpose of this project is to classify images from a test dataset into three
 
 2. F1-score macro for the predictions.
 
-Evaluation will be based on the f1_score from predictions of the dataset and the groungtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
+Evaluation will be based on the f1_score from predictions of the dataset and the groundtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
 
 
 
 ## Methodology
 
-1. Inferential Statistics.
-2. Exploratory Data Analysis.
+1. Load,  Explore and Transform dara (images&labels)
+2. Construct different Convolutional Neuronal Networks and train them.
 3. Screening classification by machine Learning.
 4. Tunning of hyperparameters to optimize the chosen model.
 5. Predict the status for the test data set (supplied without label) with the optimised model.
