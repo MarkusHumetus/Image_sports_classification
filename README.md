@@ -4,7 +4,7 @@
 opencv 4.6.0 version
 python 3.9.13
 
-Run the Jupyter NOtebook as administrator. Otherwise, permision conflict will arise when opening image files. 
+
 
 to convert file to jpg: https://image.online-convert.com/convert-to-jpg
 
@@ -26,14 +26,19 @@ Display images in Python: https://www.askpython.com/python/examples/display-imag
 ho deixem en classificació d'imatges pendent de verificar si funciona
 
 
-# [Hackathon of Talent Squad II (Barcelona-September 2022)](https://nuwe.io/challenge/talent-squad-data-science-i)
+# [Hackathon of Talent Squad II (Barcelona-September 2022)](https://nuwe.io/dev/challenges/talent-squad-data-science-ii)
 
 ## Project Intro/Objective
 
-The purpose of this project is to classify images from a test dataset into three classes/labels according to which sport correspond. There are 
+The purpose of this project is to classify images from a test dataset into three different classes/labels according to which sport correspond. A training set of labelled images is provided. Organisation set two main goals:
 
- status of a rocket by studing the info collected by six sensors. The initial data set included a label of status column and six numeric columns according to the values of each sensor. Test data set only included the values of the six sensors.
-This project was the challenge of the hackathon Talent Squad, which ultimately aims to select best candidates for future job proposals on the data field.
+1. Increase samples of images for training.
+
+2. F1-score macro for the predictions.
+
+Evaluation will be based on the f1_score from predictions of the dataset and the groungtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
+
+
 
 ## Methodology
 
@@ -55,6 +60,8 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 
 1. Clone this [repo](https://github.com/MarkusHumetus/Image_sports_classification) (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Use [requirements.txt](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/requirements.txt) to check all installed dependencies in the working environment. 
+3. Check and adapt the paths to the working directories according where files are stored.
+4. Run the Jupyter Notebook as administrator. Otherwise, permision conflict will arise when opening image files.
 
 ## Project Status
 
@@ -62,9 +69,14 @@ This project was the challenge of the hackathon Talent Squad, which ultimately a
 
 Project was completed and submitted for competition in 23rd of September 2022.
 
+## Results & Conclusions
+
+
+
+
 ## Contact
 
-If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marchumet@gmx.net
+If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marc.humet.datascience@gmail.com
 
 ## Acknowledgments
 
