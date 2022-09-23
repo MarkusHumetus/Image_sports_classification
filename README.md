@@ -52,12 +52,23 @@ Project was completed and submitted for competition in 23rd of September 2022.
 
 ## Results & Conclusions
 
+The [best model as json file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.json) and its [wheigts as h5 file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.h5)  are uploaded on this repository. In the notebook, there is plenty of examples, how it can be loaded and tested with the test data.
 
 
 
 ## Contact
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marc.humet.datascience@gmail.com
+
+If you are interested in my professional profile, please free have a look on my [project's portfolio](https://github.com/MarkusHumetus) and my linkedin page:
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+[linkedin-url]: https://www.linkedin.com/in/marchumetmontada/
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 
 ## Acknowledgments
 

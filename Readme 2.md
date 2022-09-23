@@ -64,7 +64,7 @@ Project was completed and submitted for competition in the 11th of September 202
 ## Contact
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marchumet@gmx.net
-If you are interested in my professional profile, please free to  have a look on my project's portfolio and my linkedin page
+If you are interested in my professional profile, please free have a look on my project's portfolio and my linkedin page
 FALTA LINEA DE CONTACTES!!!!!!
 
 
