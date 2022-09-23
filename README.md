@@ -1,12 +1,3 @@
-1. scrap images
-2. convert images
-3. validate and manually classify images for training
-manipulate images
-4. make neuronal net
-5. train
-6. check test
-
-
 # [Hackathon of Talent Squad II (Barcelona-September 2022)](https://nuwe.io/dev/challenges/talent-squad-data-science-ii)
 
 ## Project Intro/Objective
@@ -19,28 +10,21 @@ The purpose of this project is to classify images from a test dataset into three
 
 Evaluation will be based on the f1_score from predictions of the dataset and the groundtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
 
-
-
 ## Methodology
 
-1. Load and Check initial images and to homogenize formats and confirm its availability.
+1. Load and Check initial images to homogenize formats, confirm its availability, check class distribution.
 
-2 -> Wep scrapping of new images for each sport to increas##e the training set.
+2. Build and train Convolutiona Neuronal Networks / CNNs. An initial screening of different pretrained models which are the base model (initial layers) of the CNN. 
+p
+3. Select the best model/s and study deeper with image augmentation, fine tunning by unfrezeen last layers of base pretrained model,...
 
-3 -> Validate new images: content and size.
+4. Increase training set of images by web scrapping. Images have to be validated: format, dupplicates and right labelling if considered representative (if not discarded).
 
-4 -> Split images to 3 squared images with no aspect ratio distortion.
+5. Compare performance of best model with the extended set of training images.
 
-5 -> Generation of arrays with images at the proper size and lists with labelling (testing/validation array included) 
+6. Load models&wheights to predictions with test set of images. Compare the metrics. 
 
-6 -> Create different Convolutional Neural Network/CNN: the simplest one, with augmented images, adding an initial pretained model. 
-
-
-1. Load,  Explore and Transform dara (images&labels)
-2. Construct different Convolutional Neuronal Networks and train them.
-3. Screening classification by machine Learning.
-4. Tunning of hyperparameters to optimize the chosen model.
-5. Predict the status for the test data set (supplied without label) with the optimised model.
+7. Report results and conclusions.
 
 ## Tools
 
@@ -65,15 +49,24 @@ Project was completed and submitted for competition in 23rd of September 2022.
 
 ## Results & Conclusions
 
+* The maximum __f1 macro score__ obtained in the classification of the test images was __0.905__. 
+
+* Best results were obtained with __Xception__ and __InceptionResNetV2__ pretrained models with the augmented training set of images.
+
+* No improvements were observed when leaving last 10% layers of the pretained Xception model to be trained again.
+
+* Increase the number of training images didn't improve the performance. On the contrary, it slightly worsen the results. It may be due the increase of 'noise' or variance in the training images. ON the other hand, the feed of new images can be biased by the selection of them. The more images and people who validate them, the less biased will be the training set. 
+
+* As forseen, the __missclassifications occurs between__ the two most similar sports: __baseball and cricket__. 
+
+
 The [best model as json file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.json) and its [wheigts as h5 file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.h5)  are uploaded on this repository. In the notebook, there is plenty of examples, how it can be loaded and tested with the test data.
-
-
 
 ## Contact
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marc.humet.datascience@gmail.com
 
-If you are interested in my professional profile, please free have a look on my [project's portfolio](https://github.com/MarkusHumetus) and my linkedin page:
+If you are interested in my professional profile, please feel free to look at my [project's portfolio](https://github.com/MarkusHumetus) and my linkedin page:
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
