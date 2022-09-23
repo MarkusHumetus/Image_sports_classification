@@ -48,7 +48,7 @@ Evaluation will be based on the f1_score from predictions of the dataset and the
 * Git & Github
 * Jupyter Notebook
 * Visual Studio Code
-* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow, Selenium, OpenCV, Pillow
+* Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow, Selenium, OpenCV, Pillow, bing_image_downloader, 
 
 ## Getting Started
 
