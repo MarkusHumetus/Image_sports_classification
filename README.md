@@ -23,6 +23,19 @@ Evaluation will be based on the f1_score from predictions of the dataset and the
 
 ## Methodology
 
+1. Load and Check initial images and to homogenize formats and confirm its availability.
+
+2 -> Wep scrapping of new images for each sport to increas##e the training set.
+
+3 -> Validate new images: content and size.
+
+4 -> Split images to 3 squared images with no aspect ratio distortion.
+
+5 -> Generation of arrays with images at the proper size and lists with labelling (testing/validation array included) 
+
+6 -> Create different Convolutional Neural Network/CNN: the simplest one, with augmented images, adding an initial pretained model. 
+
+
 1. Load,  Explore and Transform dara (images&labels)
 2. Construct different Convolutional Neuronal Networks and train them.
 3. Screening classification by machine Learning.
