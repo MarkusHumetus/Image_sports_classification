@@ -55,12 +55,13 @@ Project was completed and submitted for competition in 23rd of September 2022.
 
 * No improvements were observed when leaving last 10% layers of the pretained Xception model to be trained again.
 
-* Increase the number of training images didn't improve the performance. On the contrary, it slightly worsen the results. It may be due the increase of 'noise' or variance in the training images. ON the other hand, the feed of new images can be biased by the selection of them. The more images and people who validate them, the less biased will be the training set. 
+* Although __number of images was doubled by web scrapping__, the increase the number in training images didn't improve the performance of the model. 
 
 * As forseen, the __missclassifications occurs between__ the two most similar sports: __baseball and cricket__. 
 
 
-The [best model as json file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.json) and its [wheigts as h5 file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.h5)  are uploaded on this repository. In the notebook, there is plenty of examples, how it can be loaded and tested with the test data.
+The [best model as json file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.json) and its [wheigts as h5 file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.h5)  are uploaded on this repository. In the [notebook](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/main_Notebook.ipynb), there is plenty of examples, how it can be loaded and tested with the test data.
+Predictions of test images were stored in the file [predictions.csv](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/predictions.csv)
 
 ## Contact
 
