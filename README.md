@@ -1,6 +1,6 @@
 # [Hackathon of Talent Squad II (Barcelona-September 2022)](https://nuwe.io/dev/challenges/talent-squad-data-science-ii)
 
-## Project Intro/Objective
+## Project Aims
 
 The purpose of this project is to classify images from a test dataset into three different classes/labels according to which sport correspond. A training set of labelled images is provided. Organisation set two main goals:
 
@@ -15,14 +15,14 @@ Evaluation will be based on the f1_score from predictions of the dataset and the
 1. Load and Check initial images to homogenize formats, confirm its availability, check class distribution.
 
 2. Build and train Convolutiona Neuronal Networks / CNNs. An initial screening of different pretrained models which are the base model (initial layers) of the CNN. 
-p
-3. Select the best model/s and study deeper with image augmentation, fine tunning by unfrezeen last layers of base pretrained model,...
+
+3. Select the best model/s and study deeper with image augmentation, fine tunning by unfreezen last layers of base pretrained model,...
 
 4. Increase training set of images by web scrapping. Images have to be validated: format, dupplicates and right labelling if considered representative (if not discarded).
 
 5. Compare performance of best model with the extended set of training images.
 
-6. Load models&wheights to predictions with test set of images. Compare the metrics. 
+6. Load models & wheights to make predictions with test set of images and get the scoring metrics. 
 
 7. Report results and conclusions.
 
@@ -30,7 +30,7 @@ p
 
 * Python
 * Git & Github
-* Jupyter Notebook
+* [Jupyter Notebook](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/main_Notebook.ipynb)
 * Visual Studio Code
 * Libraries: Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Keras, Tensorflow, Selenium, OpenCV, Pillow, bing_image_downloader, 
 
